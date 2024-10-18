@@ -18,3 +18,10 @@ I'm a **Data Engineering** student with a passion for **Artificial Intelligence*
 - **Email**: [aminachaabene.ac@gmail.com](mailto:aminachaabene.ac@gmail.com)
 - **LinkedIn**: [linkedin.com/in/amina-chaaben](https://www.linkedin.com/in/amina-chaaben)
 - **GitHub**: [github.com/AminaChaa](https://github.com/AminaChaa)
+
+---
+
+### 📊 GitHub Stats:
+![Amina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminaChaa&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaChaa&layout=compact&theme=radical)
