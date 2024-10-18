@@ -15,15 +15,10 @@ I'm a **Data Engineering** student with a passion for **Artificial Intelligence*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Some Statistics
 
 | ![Amina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminaChaa&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaChaa&layout=compact&theme=radical) |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-
----
-
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AminaChaa&bg_color=1c1c1c&color=ff66b2&line=ff6699&point=fff&area=true&hide_border=true)
 
 ---
 
