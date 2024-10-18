@@ -25,3 +25,6 @@ I'm a **Data Engineering** student with a passion for **Artificial Intelligence*
 ![Amina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminaChaa&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminaChaa&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AminaChaa&color=blue&style=flat)
+
