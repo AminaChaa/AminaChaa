@@ -13,16 +13,6 @@ I'm a **Data Engineering** student with a passion for **Artificial Intelligence*
 
 ---
 
-### 🌟 Projects:
-
-- **OCR Application for National ID Cards**  
-  Developed an OCR system with 97% accuracy in card segmentation and 96% in field segmentation using deep learning.
-
-- **Movie Recommendation System**  
-  Built a recommendation system with sentiment analysis using deep learning techniques.
-
----
-
 ### 📫 Let's Connect:
 
 - **Email**: [aminachaabene.ac@gmail.com](mailto:aminachaabene.ac@gmail.com)
